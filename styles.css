@@ -1,0 +1,52 @@
+body {
+    background-color: #e6f8ee;
+}
+
+
+.head-section {
+    background: #03d46f;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.navbar-brand, .text-primary {
+    color: black !important;
+}
+
+.about-text{
+    text-align: right justify;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.nav-link:hover {
+    background-color: rgb(224, 219, 219);
+    transition: .5s;
+    border-radius: 3px;
+}
+
+.footer-section {
+    background-color: #03d46f;
+    border: none;
+    color: black !important;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    .container {
+        padding: 2rem 0rem;
+      }
+   .table-image {
+        td, th {
+          vertical-align: middle;
+        }
+      }
+}
+
